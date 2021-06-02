@@ -7,3 +7,20 @@
 // console.log(dogAge)
 
 
+// const favoriteDogBreed = (dogBreed) => {
+//     if (dogBreed === "schnauzer") {
+//         return "My favorite dog breed is a schnauzer."
+//     }
+//     else if (dogBreed === "meow") {
+//         return "I like cats."
+//     }
+//     else {
+//         return false
+//     }
+// }
+
+// const myFavorite = favoriteDogBreed("meow")
+
+// console.log('When it comes to pets, ' + myFavorite)
+
+
