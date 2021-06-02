@@ -44,3 +44,22 @@
 
 // const drivingCar = go("forward", 82)
 // console.log(drivingCar)
+
+
+
+// const evenOrOdd = (number) => {
+//     if (number % 2 !== 0) {
+//         return "Odd"
+//     }
+//     return "Even"
+// }
+
+// const numbers = [5, 2, 7, 12, 88, 99, 57, 11, 6, 78]
+// for (const number of numbers) {
+//     console.log(evenOrOdd(number))
+
+// }
+
+// const numero = evenOrOdd(0)
+// console.log(numero)
+
