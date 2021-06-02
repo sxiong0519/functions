@@ -24,3 +24,13 @@
 // console.log('When it comes to pets, ' + myFavorite)
 
 
+
+// const add = (first, second, third) => {
+//     const addition = first + second + third
+//     return addition
+// }
+
+// const values = add(17, 4, 11)
+
+// console.log(values)
+
