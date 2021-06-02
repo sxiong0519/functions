@@ -34,3 +34,13 @@
 
 // console.log(values)
 
+
+// const go = (direction, speed) => {
+//     if (speed >= 75) {
+//     return "The car is moving " + direction + " at " + speed + " mph. SLOW DOWN!"
+//     }
+//     return "The car is moving " + direction + " at " + speed + " mph."
+// }
+
+// const drivingCar = go("forward", 82)
+// console.log(drivingCar)
