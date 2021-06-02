@@ -63,3 +63,24 @@
 // const numero = evenOrOdd(0)
 // console.log(numero)
 
+const words = [
+    "The", "killing", "complex", "houses",
+    "married", "kittens", "and", "single",
+    "soldiers", "and", "their", "kleptomaniacal",
+    "families"
+]
+
+const filtering = (filterK) => {
+    for (var i = 0; i < filterK.length; i++) {
+        if (filterK[i].startsWith('k')) {
+            filterK.splice(i, 1);
+            i--; 
+        }
+}
+}
+
+console.log(words.join(' '))
+
+const newWords = words.filter(word => filtering(words))
+
+console.log(words.join(' '))
